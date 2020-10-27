@@ -1,0 +1,17 @@
+.App-header {
+  text-align: center;
+}
+
+input {
+  margin: 1% auto;
+}
+
+button {
+  margin-bottom: 1%;
+}
+
+.bigContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
